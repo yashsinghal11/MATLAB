@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Salary
+101,John,28.0,Male,50000.0
+102,Alice,35.0,Female,60000.0
+103,Bob,,Male,55000.0
+104,Eve,40.0,Female,
+105,John,28.0,Male,50000.0
+106,Charlie,32.0,Male,58000.0
+107,Diana,29.0,Female,62000.0
+108,Frank,,Male,50000.0
+109,Grace,36.0,Female,65000.0
+110,Hank,45.0,Male,70000.0
